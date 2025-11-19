@@ -1,0 +1,5 @@
+# Ignore large data files
+*.csv
+# Ignore compiled Python files
+__pycache__/
+*.pyc
