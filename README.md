@@ -1,8 +1,8 @@
-Hyperliquid Trader Performance and Market Sentiment Analysis
+ Trader Performance and Market Sentiment Analysis
 
  Project Overview
 
-This project analyzes the relationship between the Bitcoin Market Sentiment (Fear & Greed Index) and the realized trading performance of accounts on the Hyperliquid decentralized exchange. The objective is to quantify how market emotion affects profitability and to identify hidden patterns that can be translated into smarter trading strategies.
+This project analyzes the relationship between the Bitcoin Market Sentiment (Fear & Greed Index) and the realized trading performance of accounts on the  decentralized exchange. The objective is to quantify how market emotion affects profitability and to identify hidden patterns that can be translated into smarter trading strategies.
 
 The analysis is executed via a single Python script, Project.py.
 
